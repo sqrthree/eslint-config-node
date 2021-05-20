@@ -7,7 +7,7 @@ A personal ESLint configuration for Node.js
 Add this package to your project as a dev-dependency:
 
 ```bash
-npm install -D @sqrtthree/eslint-config-node
+npm install -D eslint prettier jest @sqrtthree/eslint-config-node
 ```
 
 Then initialize the linter.
