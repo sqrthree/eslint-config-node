@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/sqrthree/eslint-config-node#readme",
   "dependencies": {
-    "@sqrtthree/eslint-config-base": "^0.2.0",
+    "@sqrtthree/eslint-config-base": "^0.3.0",
     "eslint-plugin-jest": "^25.7.0"
   },
   "devDependencies": {
